@@ -1,0 +1,11 @@
+# ignorar os tipos de arquivos
+*.pdf
+*zip
+
+# ignorar os guias de estudo
+GUIA_DE_ESTUDOS_PROVA_APRENDIZAGEM_DE_MAQUINA.md
+Guia de Estudos Luis.md
+
+# ignorar pasta
+/aprendizagem-maquina-luis
+/p1
